@@ -1,0 +1,49 @@
+/* Global styles */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: black; /* Set background to black */
+    color: #39FF14; /* Neon green color */
+}
+
+/* Header styles */
+header {
+    background: black; /* Header background black */
+    color: #39FF14; /* Neon green color for header text */
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Navigation bar styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #39FF14; /* Neon green for navigation links */
+    text-decoration: none;
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+/* Footer styles */
+footer {
+    background: black; /* Footer background black */
+    color: #39FF14; /* Neon green color for footer text */
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
